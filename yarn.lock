@@ -6412,10 +6412,10 @@ next-contentlayer@^0.2.4:
     "@contentlayer/utils" "0.2.4"
     rxjs "^7.1.0"
 
-next-seo@^4.28.1:
-  version "4.29.0"
-  resolved "https://registry.yarnpkg.com/next-seo/-/next-seo-4.29.0.tgz#d281e95ba47914117cc99e9e468599f0547d9b9b"
-  integrity sha512-xmwzcz4uHaYJ8glbuhs6FSBQ7z3irmdPYdJJ5saWm72Uy3o+mPKGaPCXQetTCE6/xxVnpoDV4yFtFlEjUcljSg==
+next-seo@^5.11.1:
+  version "5.11.1"
+  resolved "https://registry.yarnpkg.com/next-seo/-/next-seo-5.11.1.tgz#256071c2c359003924c64678fbf6ac283680b66f"
+  integrity sha512-P18E5mDaUEvIK/hDlCLAl7w02Ew6a8m1E3KO3d+rIPKWPcBRMckcMzxkdFkafFqwHl4ygCLNCWlKWM9EKD3jIQ==
 
 next-tick@^1.1.0:
   version "1.1.0"
